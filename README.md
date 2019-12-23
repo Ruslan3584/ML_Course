@@ -49,5 +49,11 @@ University course
 + matplotlib
 
 
+## glass.csv
+### Dataset for all algorithms 
+
++ source : https://archive.ics.uci.edu/ml/datasets/glass+identification
+
+
 ### How to install libraries?:
  + Use pip3 <libr_name> command
