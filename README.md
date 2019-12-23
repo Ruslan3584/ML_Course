@@ -1,8 +1,5 @@
 # ML_Course
 University course 
-# Pattern_recognition
-Labs
-
 
 
 # labs
