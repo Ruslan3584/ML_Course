@@ -55,5 +55,5 @@ University course
 + source : https://archive.ics.uci.edu/ml/datasets/glass+identification
 
 
-### How to install libraries?:
+### How to install libraries?
  + Use pip3 <libr_name> command
